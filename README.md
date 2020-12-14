@@ -8,9 +8,9 @@ The attached csv file "facility_operations_2010_to_2020.csv" contains prison pop
 Analysis of the 2010-2020 ADOC facility operations data is available [here](https://github.com/dcsimpson01/AL_prison_data/blob/main/ADOC_Facility_Operations_Analays_2010-2020.pdf).
 
 ### Notes
-The *facility.type* variable abbreviations stand for the following:
+<--! The *facility.type* variable abbreviations stand for the following:
 - CLOSE = Close Security
 - MED = Medium Security
 - MIN = Minimum Security
 - MIN WC = Minimum Security Work Center
-- MIN WR = Minimum Security Work Release
+- MIN WR = Minimum Security Work Release -->
