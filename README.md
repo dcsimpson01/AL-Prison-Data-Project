@@ -10,6 +10,6 @@ Analysis of the 2010-2020 ADOC facility operations data is available [here](http
 ### Notes
 Feel free to use this data in your own work or projects. Suggested citation: **Simpson, David. (2020) Alabama Prison Data, v1.0, GitHub repository. https://github.com/dcsimpson01/AL_prison_data**
 
-I would love to know how you are using the data. You can find me on twitter: [@DavidCSimpson](https://twitter.com/DavidCSimpson).
+I would love to know how you are using the data. You can find me on twitter [@DavidCSimpson](https://twitter.com/DavidCSimpson). For more about me, see my personal [website](www.davidcsimpson.com).
 
 If you have any questions or notice any mistakes in the data or analysis, please reach out.
